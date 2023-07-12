@@ -1,3 +1,4 @@
 Different greetings
 - Welcome
 - Mabuhay
+- konichiwasup
