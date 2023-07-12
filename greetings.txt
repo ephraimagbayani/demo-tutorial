@@ -1,5 +1,4 @@
 Different greetings
-
+- rembokodun
 - konichiwasup
-- konichiyawa
-- itadakimouse
+-gomenazai
