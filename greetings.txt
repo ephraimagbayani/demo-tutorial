@@ -1,4 +1,5 @@
 Different greetings
-- Welcome
-- Mabuhay
+
 - konichiwasup
+- konichiyawa
+- itadakimouse
